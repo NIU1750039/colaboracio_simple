@@ -1,2 +1,3 @@
 Aquest és un projecte col·laboratiu.
 Persona1 ha iniciat el projecte.
+Persona 2 ha col·laborat amb aquest projecte afegint aquesta línia.
